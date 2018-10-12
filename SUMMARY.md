@@ -9,8 +9,9 @@
   * [Youtube Channels](youtube-channels.md)
   * [Blockchain explorers](blockchain-explorers.md)
   * [Dapps](dapps.md)
-  * For Developers
+  * [For Developers](for-developers.md)
   * [Gambling](gambling.md)
   * [ICOs](icos.md)
+  * [Mining](mining.md)
 * [Cryptocurrency Terms](chapter1.md)
 
