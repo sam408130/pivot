@@ -8,7 +8,7 @@
 
 [Visit website](https://altpocket.io/)
 
-![](https://cryptominded.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-21-at-21.54.21-1280x888.png)
+![](/assets/screencapture-altpocket-io-2018-10-12-15_28_42 (1).png)
 
 Altpocket.io is a powerful tool to share, track and manage your cryptocurrency investments.
 
@@ -26,3 +26,10 @@ And it now also supports importing orders from bittrex or poloniex!
 ![](https://cryptominded.com/wp-content/uploads/2017/10/Cryptominded_Delta.png)
 
 Delta is the ultimate cryptocurrency portfolio management tool for mobile. Keep track of all cryptocoins, including Bitcoin, Ethereum, Litecoin and over 2000 alt coins. Available for iOS and Android.
+
+
+#### COINFYI
+
+[Visit website](http://coin.fyi/)
+
+![]()
