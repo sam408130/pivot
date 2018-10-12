@@ -1,7 +1,7 @@
 ## Portfolio Trackers Collection
 
 
-以下是一些常用的资产管理工具，帮助你查看和管理资产盈亏
+以下是一些常用的资产管理工具，帮助你查看和管理资产盈亏，持续补充。。。
 
 
 #### Altpocket
