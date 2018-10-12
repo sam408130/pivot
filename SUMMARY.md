@@ -14,5 +14,5 @@
   * [ICOs](icos.md)
   * [Mining](mining.md)
   * Wallets
-* [常用单词](chapter1.md)
+* [Cryptocurrency Terms](chapter1.md)
 
