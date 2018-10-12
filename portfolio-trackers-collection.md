@@ -8,7 +8,7 @@
 
 [Visit website](https://altpocket.io/)
 
-![](/assets/screencapture-altpocket-io-2018-10-12-15_28_42 (1).png)
+![](/assets/screencapture-altpocket-io-2018-10-12-15_28_42.png)
 
 Altpocket.io is a powerful tool to share, track and manage your cryptocurrency investments.
 
@@ -33,7 +33,7 @@ Delta is the ultimate cryptocurrency portfolio management tool for mobile. Keep 
 
 [Visit website](http://blockfolio.com/)
 
-![](/assets/screencapture-blockfolio-2018-10-12-15_37_40 (1).png)
+![](/assets/screencapture-blockfolio-2018-10-12-15_37_40.png)
 
 
 Blockfolio offers complete cryptocurrency management, with easy to use tools to keep track of all your cryptocurrency investments. Get detailed price and market information for individual currencies and your entire portfolio all in one place.
@@ -50,7 +50,7 @@ Blockfolio offers complete cryptocurrency management, with easy to use tools to 
 
 [Visit website](https://cointracking.info/?ref=C611411)
 
-![](/assets/screencapture-cointracking-info-2018-10-12-15_42_16 (1).png)
+![](/assets/screencapture-cointracking-info-2018-10-12-15_42_16.png).png)
 
 Your personal Profit / Loss Portfolio Monitor and Tax Tracker for all Digital Coins
 
