@@ -220,3 +220,11 @@ Decentralized Application  去中心化的应用，指后端服务存储上链�
 #### Gas Price 
 
 一个用户可以构建和签名一笔交易，但每个用户都可以各自设置自己希望使用的gasPrice，甚至可以是0。然而，以太坊客户端的Frontier版本有一个默认的gasPrice，即0.05e12 wei。矿工为了最大化他们的收益，如果大量的交易都是使用默认gasPrice即0.05e12 wei，那么基本上就很难又矿工去接受一个低gasPrice交易，更别说0 gasPrice交易了。
+
+#### Wei
+ 1 Ether = 1000000000000000000 Wei 10的18次方
+ 
+#### Gwei
+
+1 Ether = 1000000000 Gwei  10的9次方
+
