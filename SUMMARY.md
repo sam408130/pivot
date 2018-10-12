@@ -13,5 +13,6 @@
   * [Gambling](gambling.md)
   * [ICOs](icos.md)
   * [Mining](mining.md)
+  * Wallets
 * [Cryptocurrency Terms](chapter1.md)
 
