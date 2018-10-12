@@ -50,3 +50,35 @@ Blockfolio offers complete cryptocurrency management, with easy to use tools to 
 
 [Visit website](https://cointracking.info/?ref=C611411)
 
+![](/assets/screencapture-cointracking-info-2018-10-12-15_42_16 (1).png)
+
+Your personal Profit / Loss Portfolio Monitor and Tax Tracker for all Digital Coins
+
+All Coins, all Analyzes, all Calculations, all Charts and all Prices for Bitcoin, Litecoin, Ethereum, Ripple, DogeCoin and over 4000 other Currencies. The number 1 for Tracking, Evaluating and Calculating your trades. From people who love Cryptocoins and Analyzes, for traders like you!
+
+
+#### CryptoTrackr
+
+[Visit website](https://cryptotrackr.com/)
+
+![](/assets/screencapture-cryptotrackr-2018-10-12-15_44_14.png)
+
+Easily Track Your Cryptocurrency Portfolio
+
+
+#### ACrypto
+
+[Google Play](https://play.google.com/store/apps/details?id=dev.dworks.apps.acrypto)
+
+
+![](/assets/WechatIMG109.jpeg)
+![](/assets/WechatIMG110.jpeg)
+![](/assets/WechatIMG112.jpeg)
+
+ACrypto是另一种适用于所有交易需求的加密货币应用程序
+
+Acrypto 是比特币和Cryptocurrency投资组合跟踪应用程序，使用它可以跟踪最新的价格，找到套利机会，维护投资组合，获取警报，追踪余额，比较1300多个硬币在不同交易所的价格，包括比特币，ethereum和其他altcoins交易和市场在全球20大货币
+
+做的比较烂，但是在移动App里面被一些媒体推荐过，和上面的Delta有个共同的特点，创建Portfolio都要付费！！！
+
+
