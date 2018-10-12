@@ -8,5 +8,6 @@
   * [Exchanges](exchanges.md)
   * [Youtube Channels](youtube-channels.md)
   * [Blockchain explorers](blockchain-explorers.md)
+  * [Dapps](dapps.md)
 * [Cryptocurrency Terms](chapter1.md)
 
