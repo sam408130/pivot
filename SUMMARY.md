@@ -7,5 +7,6 @@
   * [Communities](communities.md)
   * [Exchanges](exchanges.md)
   * [Youtube Channels](youtube-channels.md)
+  * [Blockchain explorers](blockchain-explorers.md)
 * [Cryptocurrency Terms](chapter1.md)
 
