@@ -32,4 +32,14 @@ Earn.com被coinbase于4.17日收购，Earn能让用户通过回复邮件或完�
 
 ![](https://cryptominded.com/wp-content/uploads/2017/06/og-image-e1497387320767.png)
 
+跟以太坊相关的找工作平台
+
+
+
+#### Bitwage
+
+[Visit website](https://www.bitwage.com/)
+
+![](https://cryptominded.com/wp-content/uploads/2017/06/Bitwage-NewsBTC2-1280x768.png)
+
 
