@@ -23,13 +23,30 @@ And it now also supports importing orders from bittrex or poloniex!
 
 [Visit website](https://getdelta.io/)
 
-![](https://cryptominded.com/wp-content/uploads/2017/10/Cryptominded_Delta.png)
+![](/assets/屏幕快照 2018-10-12 下午3.35.11.png)
 
 Delta is the ultimate cryptocurrency portfolio management tool for mobile. Keep track of all cryptocoins, including Bitcoin, Ethereum, Litecoin and over 2000 alt coins. Available for iOS and Android.
 
 
-#### COINFYI
 
-[Visit website](http://coin.fyi/)
+#### Blockfolio
 
-![]()
+[Visit website](http://blockfolio.com/)
+
+![](/assets/screencapture-blockfolio-2018-10-12-15_37_40 (1).png)
+
+
+Blockfolio offers complete cryptocurrency management, with easy to use tools to keep track of all your cryptocurrency investments. Get detailed price and market information for individual currencies and your entire portfolio all in one place.
+
+
+#### CryptoCompare Portfolio
+
+[Visit website](https://www.cryptocompare.com/portfolio/)
+
+![](/assets/screencapture-cryptocompare-portfolio-2018-10-12-15_40_26.png)
+
+
+#### CoinTracking
+
+[Visit website](https://cointracking.info/?ref=C611411)
+
