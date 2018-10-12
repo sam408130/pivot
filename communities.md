@@ -18,3 +18,17 @@
 ...
 
 
+
+#### Discord
+
+[Bitpam](https://discord.gg/VpPrGmF)
+
+
+#### Steemit
+
+[Visit website](https://steemit.com/)
+
+![](https://cryptominded.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-04-at-11.32.50.png)
+
+
+

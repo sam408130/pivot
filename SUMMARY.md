@@ -5,5 +5,6 @@
   * [News Sources](news-sources.md)
   * [Earn Crypto & Jobs](earn-crypto-and-jobs.md)
   * [Communities](communities.md)
+  * [Exchanges](exchanges.md)
 * [Cryptocurrency Terms](chapter1.md)
 
