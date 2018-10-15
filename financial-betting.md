@@ -142,4 +142,4 @@ Ladder，顾名思义，梯子的意思，只庄家给出不同的价格区间�
 
 ### Spread Betting
 
-spread betting ,中文叫点差交易，在体育竞猜中常用到，在financial betting中的变现形式就是杠杆交易。我们目前没法做这种交易类型，就不展开了。
+spread betting ,中文叫点差交易，在体育竞猜中常用到，在financial betting中的表现形式就是杠杆交易。我们目前没法做这种交易类型，就不展开了。
