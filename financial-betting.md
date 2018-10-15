@@ -11,7 +11,7 @@
 
  
   
-* Binary Betting - 二元投注，常见的玩法有 Tunnel , OneTouch, Hi/Lo, Target, Ladder
+* Binary Betting - 二元投注，常见的玩法有 Tunnel , OneTouch, Hi/Lo, Rise/Fall,  Ladder
 
     
     
@@ -64,8 +64,14 @@ Dice是常见的Fiexd odds betting, 设定好payout后，赔率就固定了，�
 
 ####  Binary Betting
 
-二元投注的原始玩法，这里就不多描述了，有点复杂。。。主要介绍一下Binary Betting下的集中常见玩法
+二元投注的原始玩法，这里就不多描述了，有点复杂。。。主要介绍一下Binary Betting下的集中常见玩法，这些玩法跟我们目前的预测类似，只不过下注赔率是当时的赔率
 
-1. 
+1. Rise/Fall
 
+![](/assets/屏幕快照 2018-10-15 下午9.23.36.png)
 
+* 选择开始时间
+* 选择变化周期
+* 填写投注金额
+
+根据系统给出的赔率，预测到结束时间点时的价格跟预测开始时间的价格对比，是涨了，还是跌了。
