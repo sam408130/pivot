@@ -16,7 +16,7 @@
 
 * Spread Betting - 点差玩法，泛指合约，杠杆类交易类型    
     
-#### Fixed Odds Betting
+### Fixed Odds Betting
 
 Dice是常见的Fiexd odds betting, 设定好payout后，赔率就固定了，收益是可预知的。在Financail Betting 中，其常见的玩法是猜价格涨跌。
 
@@ -140,3 +140,6 @@ Ladder，顾名思义，梯子的意思，只庄家给出不同的价格区间�
 玩家在参与时，需要先选择预测时间周期，以及下注金额。不同的时间周期对应的payout会不一样，时间越短，赔率会越高。然后从给出的价格中选一个，判断收盘价比你选的价格高，还是低。
 
 
+### Spread Betting
+
+spread betting ,中文叫点差交易，在体育竞猜中常用到，在financial betting中的变现形式就是杠杆交易，
