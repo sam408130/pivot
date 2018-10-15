@@ -15,4 +15,5 @@
   * [Mining](mining.md)
   * Wallets
 * [Cryptocurrency Terms](chapter1.md)
+* [Financial Betting](financial-betting.md)
 
