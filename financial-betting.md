@@ -18,7 +18,7 @@
     
 ### Fixed Odds Betting
 
-Dice是常见的Fiexd odds betting, 设定好payout后，赔率就固定了，收益是可预知的。在Financail Betting 中，其常见的玩法是猜价格涨跌。
+Dice是常见的Fiexd odds betting, 设定好payout后，赔率就固定了，收益是可预知的。在Financail Betting 中，其常见的玩法是猜价格涨跌，下面是一张粗糙的原型图。。。
 
 
 ![](/assets/屏幕快照 2018-10-15 下午9.06.42.png)
@@ -28,7 +28,7 @@ Dice是常见的Fiexd odds betting, 设定好payout后，赔率就固定了，�
 1. 先选择一个数字货币
 2. 填写下注金额
 3. 选择预测时间段
-4. 从提交开始，相对于提交时候的现价，选择时间段后的价格是涨了，还是跌了
+4. 从提交开始，相对于提交时候的现价，预测结束时间点的价格是涨了，还是跌了
 5. 提交
 
 
@@ -56,7 +56,7 @@ Dice是常见的Fiexd odds betting, 设定好payout后，赔率就固定了，�
 结合这种思想，玩法是多样的：
 
 1. 购买门票获得开奖资格，以某种方式开奖，如价格高低，走势等
-2. 下注猜一个时间段的价格，跟彩票一样类似，彩票是获得随机数组合，我们是直接才价格，精确到小数点后两位(小廖的想法)
+2. 下注猜一个时间段的价格，跟彩票一样，彩票是获得随机数组合，我们是直接猜价格，精确到小数点后两位(小廖的想法)
 3. 目前的预测玩法
 4. 组合制，连续预测，成功获得积分，最后瓜分大奖
 5. 。。。
@@ -64,7 +64,7 @@ Dice是常见的Fiexd odds betting, 设定好payout后，赔率就固定了，�
 
 
 ###  Binary Betting
-二元投注的原始玩法，这里就不多描述了，有点复杂。。。主要介绍一下Binary Betting下的集中常见玩法，这些玩法跟我们目前的预测类似。
+二元投注的原始玩法，这里就不多描述了，有点复杂。。。主要介绍一下Binary Betting下的几种常见玩法，这些玩法跟我们目前的预测类似。
 
 #### Rise/Fall
 
@@ -109,7 +109,7 @@ Dice是常见的Fiexd odds betting, 设定好payout后，赔率就固定了，�
 
 Tunnel 有两种玩法：
 
-1. Ends Bewteen/ Ends Out
+##### Ends Bewteen/ Ends Out
 
 ![](/assets/屏幕快照 2018-10-15 下午9.46.11.png)
 
@@ -119,7 +119,7 @@ Tunnel 有两种玩法：
 * 选择在预测时间段内，最终的价格在区间内，还是不在区间内
 
 
-2. Stays Between/ Goos Out
+##### Stays Between/ Goos Out
 
 ![](/assets/屏幕快照 2018-10-15 下午9.48.14.png)
 
