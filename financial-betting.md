@@ -14,7 +14,10 @@
 * Binary Betting - 二元投注，常见的玩法有 Tunnel , OneTouch, Hi/Lo, Rise/Fall,  Ladder
 
 
-* Spread Betting - 点差玩法，泛指合约，杠杆类交易类型    
+* Spread Betting - 点差玩法，泛指合约，杠杆类交易类型   
+
+ 
+Fixed odds betting 和 Pari Mutuel 这两种玩法常用于博彩业，Binary Betting 和 Spread Betting在financial betting应用广泛。以下玩法对应的应用实例在目前的在线博彩竞猜网站中都有使用，但核心问题是如何冷启动，如果丰富对手面的资金，如何在保证收益的情况下计算赔率，是下一步要深究的。 
     
 ### Fixed Odds Betting
 
