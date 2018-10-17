@@ -185,7 +185,7 @@ https://api.commerce.coinbase.com/charges/HH7WJJW2
 
 crypto中显示了用户支付的货币数量和货币单位
 
-在tiemline字段中显示了支付状态
+在timeline字段中显示了支付状态
 
 ```
         "timeline": [
