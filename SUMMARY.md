@@ -17,4 +17,5 @@
 * [Cryptocurrency Terms](chapter1.md)
 * [Financial Betting](financial-betting.md)
 * [支付解决方案](zhi-fu-jie-jue-fang-an.md)
+* [STO](sto.md)
 
