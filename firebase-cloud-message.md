@@ -166,7 +166,16 @@ print('Successfully sent message:', response)
 ```
 
 
+#### 测试是否能发送成功
 
+Firebase Admin SDK 支持以测试模式发送 FCM 消息。SDK 和 FCM 服务会对以此模式发送的消息执行所有常规验证，但它们实际上并未传送到目标设备。因此，该功能可用于检查 SDK 和 FCM 服务是否会接受某条消息以便发送。
+
+```
+# Send a message in the dry run mode.
+response = messaging.send(message, dry_run=True)
+# Response is a message ID string.
+print('Dry run successful:', response)
+```
 
 
 
