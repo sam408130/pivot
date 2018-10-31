@@ -65,7 +65,7 @@ response = messaging.subscribe_to_topic(registration_tokens, topic)
 
 ```
 
-这里要注意，在单个请求中，最多可以为 1000 台设备订阅主题。如果提供的数组所含的注册令牌超过 1000 个，则系统将无法处理此请求，并且会显示 messaging/invalid-argument 错误。
+!!! 这里要注意，在单个请求中，最多可以为 1000 台设备订阅主题。如果提供的数组所含的注册令牌超过 1000 个，则系统将无法处理此请求，并且会显示 messaging/invalid-argument 错误。
 
 
 
@@ -178,7 +178,7 @@ print('Dry run successful:', response)
 ```
 
 
-
+  
 
 
 
