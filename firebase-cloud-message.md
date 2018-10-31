@@ -123,5 +123,53 @@ print('Successfully sent message:', response)
 
 ```
 
+#### 向组合主题发送消息
+
+例如，以下条件会将消息发送至已订阅 TopicA 以及 TopicB 或 TopicC 的设备
+
+```
+"'TopicA' in topics && ('TopicB' in topics || 'TopicC' in topics)"
+```
+
+FCM 首先对括号中的所有条件求值，然后从左至右对表达式求值。在上述表达式中，只订阅某个单一主题的用户将不会接收到消息。同样地，未订阅 TopicA 的用户也不会接收到消息。下列组合将会接收到消息：
+
+```
+TopicA 和 TopicB
+TopicA 和 TopicC
+```
+
+完成代码
+
+```
+from firebase_admin import messaging
+
+# 组合条件
+condition = "'iOS' in topics && 'US' in topics" #发送给美国的iOS用户
+
+# 定义消息体
+message = messaging.Message(
+    notification=messaging.Notification(
+        title='test message',
+        body='test message topic news',
+    ),
+    data={
+        'action': 'openPost',
+        'pid': '5bd7bb40cd5ee77fbce1027a',
+    },
+    condition=condition,
+)
+
+# 发送
+response = messaging.send(message)
+print('Successfully sent message:', response)
+
+```
+
+
+
+
+
+
+
 
 
