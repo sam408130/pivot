@@ -35,7 +35,7 @@ Pivot中分享到Facebook，twitter，telegram时，分享的卡片很单一：�
 * twitter标签
 
 
-### 基本标签
+### 基本标签 Open Graph Markup
 
 基本标签用于标识链接内容的类型，文章还是视频，标题，描述，以及封面图
 
