@@ -125,26 +125,43 @@ facebook文档：https://developers.facebook.com/docs/applinks/metadata-referenc
 ## 我们需要的标签
 
 ```
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@9gag" />
-        <meta name="twitter:image" content="https://images-cdn.9gag.com/photo/aLgppQ5_700b.jpg" />
-        <meta property="og:title" content="Feel old" />
-        <meta property="og:site_name" content="9GAG" />
-        <meta property="og:url" content="http://9gag.com/gag/aLgppQ5" />
-        <meta property="og:description" content="More memes, funny videos and pics on 9GAG" />
-        <meta property="og:type" content="article" />
-        <meta property="og:image" content="https://images-cdn.9gag.com/photo/aLgppQ5_700b.jpg" />
-        <meta property="fb:app_id" content="111569915535689" />
-        <meta property="fb:pages" content="21785951839" />
-        <meta property="article:author" content="https://facebook.com/9gag" />
-        <meta name="viewport" content="width=1280" />
-        <meta name="verify-v1" content="vvFhqhXLAn+191Kl3iZjjHHY6wzkyGG0CJqGMoFIZEg=" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta property="al:ios:url" content="ninegag://9gag.com/gag/aLgppQ5" />
-        <meta property="al:ios:app_store_id" content="545551605" />
-        <meta property="al:ios:app_name" content="9GAG" />
-        <meta property="al:android:url" content="ninegag://9gag.com/gag/aLgppQ5" />
-        <meta property="al:android:package" content="com.ninegag.android.app" />
+    # twitter
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@theyoyoapp" />
+    <meta name="twitter:image" content="分享帖子封面图" />
+    # Open Graph Markup
+    <meta property="og:title" content="分享帖子title" />
+    <meta property="og:site_name" content="YOYO" />
+    <meta property="og:url" content="分享内容url" />
+    <meta property="og:description" content="分享帖子描述" />
+    # 当分享article, 图片可以是多个， og:image:alt, og:image:width, og:image:height是非必填项
+    <meta property="og:type" content="article" />    
+        <meta property="og:image" content="http://cdn-app.pivot.one/cryptopanic/f5f061fcb1a79c90c7dfc9e91cf62e2c!view" class="next-head"/>
+        <meta property="og:image:alt" content="Crypto Collides With the US Stock Market, Plus Bitcoin, Ripple and XRP, Tron, Ethereum, Litecoin, Cardano: Crypto News Alert" class="next-head"/>
+        <meta property="og:image:width" content="1440" class="next-head"/>
+        <meta property="og:image:height" content="720" class="next-head"/>
+        <meta property="og:image" content="http://cdn-app.pivot.one/cryptopanic/654fef39a510c7ec4a000ded508ba7c5!view" class="next-head"/>
+        <meta property="og:image:alt" content="Crypto Collides With the US Stock Market, Plus Bitcoin, Ripple and XRP, Tron, Ethereum, Litecoin, Cardano: Crypto News Alert" class="next-head"/>
+        <meta property="og:image:width" content="1200" class="next-head"/>
+        <meta property="og:image:height" content="3675" class="next-head"/>
+
+    
+    # 当分享video时
+    <meta property="og:type" content="video" />  
+        <meta property="og:video" content="视频地址" />
+        
+    # facebook
+    <meta property="fb:app_id" content="111569915535689" />
+    <meta property="fb:pages" content="21785951839" />
+    <meta property="article:author" content="https://facebook.com/9gag" />
+    <meta name="viewport" content="width=1280" />
+
+    # AppLink
+    <meta property="al:ios:url" content="yoyo的scheme" />
+    <meta property="al:ios:app_store_id" content="yoyo apple store id" />
+    <meta property="al:ios:app_name" content="YOYO" />
+    <meta property="al:android:url" content="yoyo的scheme" />
+    <meta property="al:android:package" content="yoyo android package name" />
 ```
 
 
