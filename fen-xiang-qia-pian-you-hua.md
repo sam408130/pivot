@@ -33,6 +33,7 @@ Pivot中分享到Facebook，twitter，telegram时，分享的卡片很单一：�
 * 基本标签
 * fb标签
 * twitter标签
+* AppLink标签
 
 
 ### 基本标签 Open Graph Markup
@@ -55,10 +56,13 @@ https://developers.facebook.com/docs/sharing/opengraph/object-properties#standar
 ### fb标签
 
 ```
-<meta property="fb:app_id" content="862012947269736" />
+  <meta property="fb:app_id" content="111569915535689" />
+  <meta property="fb:pages" content="21785951839" />
 ```
 
 facebook分享抓取规则遵循通用的开放图谱标记，可识别基本标签里的内容，这里添加app_id后可关联facebook提供的数据统计
+
+fb:pages添加后，会在分享卡片上出现一个小问号，点击后显示facebook pages相关信心
 
 https://developers.facebook.com/docs/sharing/webmasters#markup
 
@@ -81,10 +85,41 @@ twitter:card标签用户表示分享卡片的内容，有summary, summary_large_
 https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started
 
 
+### AppLink标签
+
+添加AppLink标签可以让用户在whatsapp里点击链接时，如果用户安装了app，可以通过scheme唤起App
 
 
 
+```
+<html>
+<head>
+    <meta property="al:ios:url" content="applinks://docs" />
+    <meta property="al:ios:app_store_id" content="12345" />
+    <meta property="al:ios:app_name" content="App Links" />
+    <meta property="al:android:url" content="applinks://docs" />
+    <meta property="al:android:app_name" content="App Links" />
+    <meta property="al:android:package" content="org.applinks" />
+    <meta property="al:web:url" content="http://applinks.org/documentation" />
+</head>
+<body>
+    Hello, world!
+</body>
+</html>
+```
 
+facebook文档：https://developers.facebook.com/docs/applinks/metadata-reference/  
+
+以下是9gag的头部信息：
+
+
+```
+    <meta property="al:ios:url" content="ninegag://9gag.com/gag/aLgppQ5" />
+    <meta property="al:ios:app_store_id" content="545551605" />
+    <meta property="al:ios:app_name" content="9GAG" />
+    <meta property="al:android:url" content="ninegag://9gag.com/gag/aLgppQ5" />
+    <meta property="al:android:package" content="com.ninegag.android.app" />
+```
 
 
 
