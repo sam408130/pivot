@@ -114,11 +114,11 @@ facebook文档：https://developers.facebook.com/docs/applinks/metadata-referenc
 
 
 ```
-    <meta property="al:ios:url" content="ninegag://9gag.com/gag/aLgppQ5" />
-    <meta property="al:ios:app_store_id" content="545551605" />
-    <meta property="al:ios:app_name" content="9GAG" />
-    <meta property="al:android:url" content="ninegag://9gag.com/gag/aLgppQ5" />
-    <meta property="al:android:package" content="com.ninegag.android.app" />
+ <meta property="al:ios:url" content="ninegag://9gag.com/gag/aLgppQ5" />
+ <meta property="al:ios:app_store_id" content="545551605" />
+ <meta property="al:ios:app_name" content="9GAG" />
+ <meta property="al:android:url" content="ninegag://9gag.com/gag/aLgppQ5" />
+ <meta property="al:android:package" content="com.ninegag.android.app" />
 ```
 
 
