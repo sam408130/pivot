@@ -122,6 +122,31 @@ facebook文档：https://developers.facebook.com/docs/applinks/metadata-referenc
 ```
 
 
+## 我们需要的标签
+
+```
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@9gag" />
+        <meta name="twitter:image" content="https://images-cdn.9gag.com/photo/aLgppQ5_700b.jpg" />
+        <meta property="og:title" content="Feel old" />
+        <meta property="og:site_name" content="9GAG" />
+        <meta property="og:url" content="http://9gag.com/gag/aLgppQ5" />
+        <meta property="og:description" content="More memes, funny videos and pics on 9GAG" />
+        <meta property="og:type" content="article" />
+        <meta property="og:image" content="https://images-cdn.9gag.com/photo/aLgppQ5_700b.jpg" />
+        <meta property="fb:app_id" content="111569915535689" />
+        <meta property="fb:pages" content="21785951839" />
+        <meta property="article:author" content="https://facebook.com/9gag" />
+        <meta name="viewport" content="width=1280" />
+        <meta name="verify-v1" content="vvFhqhXLAn+191Kl3iZjjHHY6wzkyGG0CJqGMoFIZEg=" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta property="al:ios:url" content="ninegag://9gag.com/gag/aLgppQ5" />
+        <meta property="al:ios:app_store_id" content="545551605" />
+        <meta property="al:ios:app_name" content="9GAG" />
+        <meta property="al:android:url" content="ninegag://9gag.com/gag/aLgppQ5" />
+        <meta property="al:android:package" content="com.ninegag.android.app" />
+```
+
 
 
 
