@@ -5,3 +5,24 @@
 2. 作为币种页面【热议榜】的依据
 
 
+## 开发流程
+
+#### 服务部署
+消息监测服务只在国际版执行，国内，国际共用一套数据。
+
+#### 监测Telegram群消息方法
+
+主要使用```telethon```这个库
+
+```
+from telethon import TelegramClient
+#初始化服务
+api_id = 490459
+api_hash = 'a3f39c507ae0f37062c70e085f2ec166'
+client = TelegramClient('pivot',
+    api_id,
+    api_hash,
+    proxy=(socks.SOCKS5, 'localhost', 1086)
+).start()
+
+```
